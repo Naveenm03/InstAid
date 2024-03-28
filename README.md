@@ -8,10 +8,10 @@ InstAid leverages the power of machine learning to analyze user-provided health 
 
 ## Features
 
-- **Disease Prediction**: Predict the likelihood of diabetes, heart disease, kidney disease, liver disease, and pneumonia based on user-provided data.
+- **Disease Prediction**: Predict the likelihood of various diseases based on user-provided data.
 - **User-Friendly Interface**: Navigate through the website with ease and input necessary medical information effortlessly.
 - **Accurate Results**: Utilize machine learning models trained on extensive datasets to generate accurate predictions.
-- **Recommendations**: Receive recommendations for further action based on predicted disease risks, including consulting healthcare professionals for further evaluation and treatment.
+- **Recommendations**: Receive actionable recommendations based on predicted disease risks, including consulting healthcare professionals for further evaluation and treatment.
 - **Privacy and Security**: Ensure user privacy and data security through robust security measures and adherence to privacy regulations.
 
 ## Tech Stack
@@ -66,7 +66,10 @@ InstAid leverages the power of machine learning to analyze user-provided health 
 
    - Based on the prediction results, follow the recommendations provided, including seeking medical advice or taking preventive measures.
 
-Contributors
-madhumi27
-License
-This project is licensed under the MIT License.
+## Contributors
+
+- [Madhu](https://github.com/madhumi27)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
