@@ -66,4 +66,7 @@ InstAid leverages the power of machine learning to analyze user-provided health 
 
    - Based on the prediction results, follow the recommendations provided, including seeking medical advice or taking preventive measures.
 
-.
+Contributors
+madhumi27
+License
+This project is licensed under the MIT License.
